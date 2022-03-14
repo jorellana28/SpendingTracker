@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918818193492",
+    "project_id": "spendingtracker-1da9f",
+    "storage_bucket": "spendingtracker-1da9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918818193492:android:e637f2ca02750b40012dc1",
+        "android_client_info": {
+          "package_name": "com.joyce.spendingtracker.spending_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918818193492-e973m5m43r14955tcpregeonic7quvra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvExE50a8EN-x1aT6pGjD54zWaWOJ6A1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918818193492-e973m5m43r14955tcpregeonic7quvra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
