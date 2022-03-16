@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Wasteagram',
+        title: 'Spending Tracker',
         routes: _routes,
         home: const ExpensesListScreen(),
         theme: ThemeData.dark());
